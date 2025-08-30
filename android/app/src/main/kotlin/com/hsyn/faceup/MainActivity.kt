@@ -1,4 +1,4 @@
-package com.example.faceup
+package com.hsyn.faceup
 
 import io.flutter.embedding.android.FlutterActivity
 
